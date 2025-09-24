@@ -16,8 +16,10 @@ int main(){
             
             else{
                 printf("prime no.");
+                break;
             }
         }
     }
     return 0;
+
 }
